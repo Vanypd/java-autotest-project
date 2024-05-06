@@ -1,0 +1,13 @@
+credentials:
+  username: "Testerson"
+  email: "1sunrize1@gmail.com"
+  password: "!Qwerty123"
+orderDetails:
+  firstName: "Андрю-Джонсон"
+  lastName: "Круз"
+  country: "Russia"
+  address: "ул. Селезневская, 4"
+  city: "Москва"
+  state: "Московская обл."
+  postcode: "127473"
+  phone: "88005553535"
